@@ -1,3 +1,5 @@
+![logo](https://github.com/Zakinoorani28/Zakinoorani28/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Zaki Noorani</h1>
 <h3 align="center">A passionate and dedicated Full Stack Web and Mobile Developer with over 1 year of experience. <br />
 Proficient in React.js, React Native, JavaScript, and Firebase, I have successfully completed over 20 projects. <br />
