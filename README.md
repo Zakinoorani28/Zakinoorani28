@@ -19,7 +19,7 @@ I'm passionate about creating innovative solutions and continuously expanding my
 
 - 📫 How to reach me **zakinoorani2006@gmail.com**
 
-- 📄 Know about my experiences [https://my-resume-zakinoorani28.netlify.app/](https://my-resume-zakinoorani28.netlify.app/)
+- 📄 Know about my experiences [Zaki Noorani Resume](https://pdflink.to/zakinooraniresume/)
 
 - ⚡ Fun fact **I think I am funny😉**
 
