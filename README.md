@@ -11,7 +11,7 @@ I'm passionate about creating innovative solutions and continuously expanding my
 
 - 🧑‍🏫 My Teacher [AhmedrAshraf](https://github.com/AhmedrAshraf)
 
-- 🌱 I’m currently learning **Full Stack Web And Mobile App Development.**
+- 🌱 I’m currently learning **Full Stack Mobile App Development.**
 
 - 👯 I’m looking to collaborate on **Several intresting Project.**
 
